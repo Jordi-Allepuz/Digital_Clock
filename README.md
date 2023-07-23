@@ -1,3 +1,3 @@
 # Digital_Clock
 
-https://github.com/Jordi-Allepuz/Digital_Clock/blob/master/digital_clock.jpg
+![Descripción de la imagen](https://github.com/Jordi-Allepuz/Digital_Clock/blob/master/digital_clock.jpg)
